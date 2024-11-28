@@ -14,7 +14,7 @@ import Gift from "@/components/Gift";
 import Gallery from "@/components/Gallery";
 
 export default function Home() {
-
+  
   const [isLoading, setIsLoading] = useState(true);
   useEffect(() => {
     setTimeout(() => {
@@ -35,14 +35,14 @@ export default function Home() {
       ) : (
         <>
           <ApplicationProvider>
-            {/* <Toaster />
+            <Toaster />
             <Header />
             <FirstPage />
             <RunningText />
             <SecondPage />
             <Gallery />
             <Gift />
-            <Footer /> */}
+            <Footer />
           </ApplicationProvider>
         </>
       )}
