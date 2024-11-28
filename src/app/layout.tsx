@@ -3,7 +3,7 @@ import "./globals.css";
 const title = "We are getting married!";
 const desc =
   "Wedding invitation";
-const img = "/assets/images/chew/cuoi_pc.jpg";
+const img = "/assets/images/chew/bg.jpg";
 
 export const metadata = {
   title: title,
