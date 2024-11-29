@@ -37,7 +37,7 @@ const SecondPage = () => {
           <div className="flex justify-center text-[24px] text-font-base">
             Tức 21/11 năm Giáp Thìn
           </div>
-          <div className="flex text-center text-[22px] mt-5 font-medium text-font-base">
+          <div className="flex max-sm:text-center sm:justify-center text-[22px] mt-5 font-medium text-font-base">
             Hội trường C - TTHN Tiệc Cưới Chen 1
           </div>
           <div className="flex justify-center text-[20px] mt-5 text-font-base">
@@ -50,7 +50,7 @@ const SecondPage = () => {
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3738.664928468604!2d106.17792547594968!3d20.437865481067746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e740b47ec6d1%3A0xe5b04fa629c9b1ee!2zMzAwIFRyxrDhu51uZyBDaGluaCwgVuG7iyBYdXnDqm4sIE5hbSDEkOG7i25oLCBWaWV0bmFt!5e0!3m2!1sen!2s!4v1732809906948!5m2!1sen!2s"
               width="700"
-              height="450"
+              height="300"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               className="mb-4 rounded-2xl"
@@ -80,7 +80,7 @@ const SecondPage = () => {
           <div className="flex justify-center text-[22px] mt-5 font-medium text-font-base">
             Gia đình nhà trai
           </div>
-          <div className="flex text-center text-[20px] mt-5 text-font-base">
+          <div className="flex max-sm:text-center sm:justify-center text-[20px] mt-5 text-font-base">
             Số 10 - Thôn Nhật Chiêu 2 Xã Liên Châu
           </div>
           <div className="flex justify-center text-[20px] mb-5 text-font-base">
@@ -90,7 +90,7 @@ const SecondPage = () => {
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d232.52373529681765!2d105.56789495116584!3d21.177067646442765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1732810556890!5m2!1sen!2s"
               width="700"
-              height="450"
+              height="300"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               className="mb-4 rounded-2xl"
