@@ -81,10 +81,10 @@ const SecondPage = () => {
             Gia đình nhà trai
           </div>
           <div className="flex max-sm:text-center sm:justify-center text-[20px] mt-5 text-font-base">
-            Số 10 - Thôn Nhật Chiêu 2 Xã Liên Châu
+            Số 10 - Thôn Nhật Chiêu 2, X. Liên Châu
           </div>
           <div className="flex justify-center text-[20px] mb-5 text-font-base">
-            Huyện Yên Lạc Tỉnh Vĩnh Phúc
+            H. Yên Lạc, T. Vĩnh Phúc
           </div>
           <div className="flex justify-center">
             <iframe
