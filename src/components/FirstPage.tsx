@@ -15,7 +15,7 @@ const FirstPage = () => {
         }}
       ></div>
       <div className="relative w-full">
-        <div className="mt-[15rem] max-md:mt-[14rem] flex flex-col items-center max-sm:px-[1rem] text-base">
+        <div className="mt-[20rem] max-md:mt-[14rem] flex flex-col items-center max-sm:px-[1rem] text-base">
           <p className="text-[80px] font-[500] text-white max-w-[1000px] py-16 max-md:hidden">
             Tùng Anh & Phương Anh
           </p>
