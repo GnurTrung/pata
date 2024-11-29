@@ -15,23 +15,23 @@ const FirstPage = () => {
         }}
       ></div>
       <div className="relative w-full">
-        <div className="mt-[15rem] max-md:mt-[16rem] flex flex-col items-center max-sm:px-[1rem] text-base">
+        <div className="mt-[15rem] max-md:mt-[14rem] flex flex-col items-center max-sm:px-[1rem] text-base">
           <p className="text-[80px] font-[500] text-white max-w-[1000px] py-16 max-md:hidden">
             Tùng Anh & Phương Anh
           </p>
-          <p className="text-[100px] max-sm:text-[70px] font-[500] text-white max-w-[1000px] -rotate-12 py-[85px] md:hidden">
+          <p className="text-[100px] max-sm:text-[70px] font-[500] text-white max-w-[1000px] -rotate-12 py-[60px] md:hidden">
             Tùng Anh
           </p>
           <p className="text-[100px] max-sm:text-[70px] font-[500] text-white max-w-[1000px] -rotate-12 md:hidden">
             &
           </p>
-          <p className="text-[100px] max-sm:text-[70px] font-[500] text-white max-w-[1000px] -rotate-12 py-20 md:hidden">
+          <p className="text-[100px] max-sm:text-[70px] font-[500] text-white max-w-[1000px] -rotate-12 py-[60px] md:hidden">
             Phương Anh
           </p>
-          <h2 className="text-[22px] text-font-base font-[600] text-white p-8 absolute m-auto bottom-14 uppercase">
+          {/* <h2 className="text-[14px] text-font-base font-[600] text-white p-8 absolute m-auto bottom-14 uppercase">
             | We are getting married |
-          </h2>
-          <h2 className="text-[28px] text-white py-[24px] absolute m-auto bottom-4">
+          </h2> */}
+          <h2 className="text-[28px] text-white py-[12px] absolute m-auto bottom-2">
             Thứ Bảy, 21/12/2024
           </h2>
         </div>

@@ -27,7 +27,7 @@ const SecondPage = () => {
         data-aos-anchor-placement="top-bottom"
         data-aos-duration="500"
       >
-        <div className="shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)] p-4 rounded-xl">
+        <div className="flex flex-col justify-center shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)] p-4 rounded-xl">
           <div className="flex justify-center font-bold text-[40px] max-sm:mt-4">
             Nhà gái
           </div>
@@ -35,9 +35,9 @@ const SecondPage = () => {
             10h30 - 21/12/2024
           </div>
           <div className="flex justify-center text-[24px] text-font-base">
-            Tức 21 tháng 11 năm Giáp Thìn
+            Tức 21/11 năm Giáp Thìn
           </div>
-          <div className="flex justify-center text-[28px] mt-5 font-medium text-font-base">
+          <div className="flex text-center text-[22px] mt-5 font-medium text-font-base">
             Hội trường C - TTHN Tiệc Cưới Chen 1
           </div>
           <div className="flex justify-center text-[20px] mt-5 text-font-base">
@@ -75,12 +75,12 @@ const SecondPage = () => {
             9h30 - 22/12/2024
           </div>
           <div className="flex justify-center text-[24px] text-font-base">
-            Tức 22 tháng 11 năm Giáp Thìn
+            Tức 22/11 năm Giáp Thìn
           </div>
-          <div className="flex justify-center text-[28px] mt-5 font-medium text-font-base">
+          <div className="flex justify-center text-[22px] mt-5 font-medium text-font-base">
             Gia đình nhà trai
           </div>
-          <div className="flex justify-center text-[20px] mt-5 text-font-base">
+          <div className="flex text-center text-[20px] mt-5 text-font-base">
             Số 10 - Thôn Nhật Chiêu 2 Xã Liên Châu
           </div>
           <div className="flex justify-center text-[20px] mb-5 text-font-base">

@@ -33,7 +33,7 @@ const Header = () => {
     },
   ];
   return (
-    <footer className="absolute backdrop-blur-md flex justify-between sm:px-[7rem] py-[12px] w-full items-center z-[10] max-sm:px-[16px]">
+    <footer className="absolute backdrop-blur-md flex justify-between sm:px-[7rem] pt-[12px] pb-1 w-full items-center z-[10] max-sm:px-[16px]">
       <div className="flex flex-col sm:items-center">
         <a href="/" rel="noopener noreferrer">
           {/* <Image
@@ -43,7 +43,7 @@ const Header = () => {
             height={61}
             className="rounded-full"
           /> */}
-          <div className="text-white flex text-[24px]">
+          <div className="text-white flex text-[18px]">
             TA <div className="ml-2">❤︎</div> PA
           </div>
         </a>
